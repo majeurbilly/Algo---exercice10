@@ -1,5 +1,6 @@
 #include "stdafx.h"
 #include "DataStructure.h"
+#include "Stack.h"
 
 DataStructure::DataStructure()
   : firstNode(nullptr)
@@ -9,21 +10,27 @@ DataStructure::DataStructure()
 DataStructure::DataStructure(const DataStructure& src)
   : firstNode(nullptr)
 {
-  // PROF
-  // Ne pas copier le premier pointeur!
 }
 
 DataStructure::~DataStructure()
 {
+  while (firstNode != nullptr)
+  {
+    Node *node = firstNode;
+    firstNode = firstNode->getNext();
+    delete node;
+  }
 }
 
 unsigned int DataStructure::size() const
 {
-
+  const Node* current = getFirstNode();
   unsigned int count = 0;
-
-  // A COMPLETER
-
+  while (current != nullptr)
+  {
+    count++;
+    current = current->getNext();
+  }
   return count;
 }
 
@@ -44,7 +51,6 @@ Node* DataStructure::getFirstNode()
 
 bool DataStructure::isEmpty() const
 {
-  // A COMPLETER
-  // Remplacer le return false par le code approprié
-  return false;
+  // return (0==size());
+  return (firstNode == nullptr);
 }
