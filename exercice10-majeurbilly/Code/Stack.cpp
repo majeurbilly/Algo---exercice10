@@ -2,82 +2,75 @@
 #include "Stack.h"
 #include <iostream>
 
-#include "../../../../../../../Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary/VS/UnitTest/include/CppUnitTest.h"
-#include "../../../../../../../Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary/VS/UnitTest/include/CppUnitTest.h"
 
 Stack::Stack() : DataStructure()
 {
-    
+
 }
 
 Stack::Stack(const Stack& src)
 {
-    
+
+
 }
 
 Stack::~Stack()
 {
-    if (isEmpty()) // v√©rifie si la pile est vide
-    {
-        throw std::exception("Stack is empty");  // lance une exception todo: qui faudra catch√©
-    }
-    else
-    {
-        while (isEmpty())
-        {
-            pop();
-        }
-    }
+	while (!isEmpty())
+	{
+		pop();
+	}
 }
 
 const Content& Stack::top() const
 {
-    if (isEmpty()) // v√©rifie si la pile est vide
-    {
-        throw std::exception("Stack is empty");  // lance une exception todo: qui faudra catch√©
-    }
-    return getFirstNode()->getContent(); // retourne une r√©f√©rence constante
-    // getFirstNode retourne un pointeur vers le premier n≈ìud de la pile
-    // -> pour acc√©der √† la m√©thode
-    // retourne une r√©f√©rence vers le contenu stock√© dans ce n≈ìud
-    // r√©f√©rence constant = √©viter une copie + emp√™cher la modification + acc√©der √† l‚Äôobjet original
+	if (isEmpty()) // vÈrifie si la pile est vide
+	{
+		throw std::exception("Stack is empty");  // lance une exception todo: qui faudra catchÈ
+	}
+	return getFirstNode()->getContent(); // retourne une rÈfÈrence constante
+	// getFirstNode retourne un pointeur vers le premier núud de la pile
+	// -> pour accÈder ‡ la mÈthode
+	// retourne une rÈfÈrence vers le contenu stockÈ dans ce núud
+	// rÈfÈrence constant = Èviter une copie + empÍcher la modification + accÈder ‡ líobjet original
 }
 
 void Stack::push(const Content& content)
 {
-    Node *node = new Node(); // cr√©√© un nouveau noeud sur le tas (new Node();)
-    node->setContent(content); // set le contenu dans le nouveau noeud
-    node->setNext(getFirstNode()); // chainer le nouveau pointe vers l‚Äôancien premier
-    setFirstNode(node); // mettre le nouveau noeud avec sont contenu sur le top de la chaine
+	Node* node = new Node(); // crÈÈ un nouveau noeud sur le tas (new Node();)
+	node->setContent(content); // set le contenu dans le nouveau noeud
+	node->setNext(getFirstNode()); // chainer le nouveau pointe vers líancien premier
+	setFirstNode(node); // mettre le nouveau noeud avec sont contenu sur le top de la chaine
 }
 
 void Stack::pop()
 {
-    if (isEmpty()) // v√©rifie si la pile est vide
-    {
-        throw std::exception("Stack is empty");  // lance une exception todo: qui faudra catch√©
-    }
-    Node* nodeToDelete = getFirstNode(); // Le n≈ìud √† supprimer
-    setFirstNode(nodeToDelete->getNext()); // Le suivant devient le premier
-    delete nodeToDelete;
+	if (isEmpty()) // vÈrifie si la pile est vide
+	{
+		throw std::exception("Stack is empty");  // lance une exception todo: qui faudra catchÈ
+	}
+	Node* nodeToDelete = getFirstNode(); // Le núud ‡ supprimer
+	Node* current = nodeToDelete->getNext();
+	delete nodeToDelete;
+	setFirstNode(current); // Le suivant devient le premier
 }
 
 void Stack::display() const
 {
-    if (isEmpty()) // v√©rifie si la pile est vide
-    {
-        std::cout << "Stack is empty" << std::endl;
-    }
-    else
-    {
-        const Node* current = getFirstNode(); // Initialise un pointeur vers le premier n≈ìud
-        while (current != nullptr) // Parcourt la pile tant qu‚Äôil y a des n≈ìuds
-        {
-            current->getContent().display(); // Affiche le contenu du n≈ìud courant 
-            current = current->getNext(); // Passe au n≈ìud suivant
-        }
-    }
-    
+	if (isEmpty()) // vÈrifie si la pile est vide
+	{
+		std::cout << "Stack is empty" << std::endl;
+	}
+	else
+	{
+		const Node* current = getFirstNode(); // Initialise un pointeur vers le premier núud
+		while (current != nullptr) // Parcourt la pile tant quíil y a des núuds
+		{
+			current->getContent().display(); // Affiche le contenu du núud courant 
+			current = current->getNext(); // Passe au núud suivant
+		}
+	}
+
 }
 
 
