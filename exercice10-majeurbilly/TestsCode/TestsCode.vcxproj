@@ -168,6 +168,12 @@
     </ClCompile>
     <ClCompile Include="teststack.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Code\Code.vcxproj">
+      <Project>{100d684f-55f1-4c8e-8c3f-0595af2ce3d5}</Project>
+      <Name>Code</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

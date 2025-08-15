@@ -1,42 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\",
+  "WorkspaceRootPath": "C:\\Users\\jefou\\OneDrive\\Desktop\\Algo---exercice10\\exercice10-majeurbilly\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DA07A383-A08C-4873-A0A4-617A560EDC60}|TestsCode\\TestsCode.vcxproj|C:\\Users\\jefou\\OneDrive\\Desktop\\Algo---exercice10\\exercice10-majeurbilly\\TestsCode\\teststack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA07A383-A08C-4873-A0A4-617A560EDC60}|TestsCode\\TestsCode.vcxproj|solutionrelative:TestsCode\\teststack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|C:\\Users\\jefou\\OneDrive\\Desktop\\Algo---exercice10\\exercice10-majeurbilly\\Code\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|solutionrelative:Code\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|solutionrelative:Code\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|solutionrelative:Code\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|solutionrelative:Code\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8EA6CD7-8A12-4610-A9D1-8906E18B9AFB}|Launcher\\Launcher.vcxproj|C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Launcher\\Launcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A8EA6CD7-8A12-4610-A9D1-8906E18B9AFB}|Launcher\\Launcher.vcxproj|solutionrelative:Launcher\\Launcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\DataStructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|solutionrelative:Code\\DataStructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\DataStructure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|solutionrelative:Code\\DataStructure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|solutionrelative:Code\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{100D684F-55F1-4C8E-8C3F-0595AF2CE3D5}|Code\\Code.vcxproj|solutionrelative:Code\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,116 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Book.h",
-              "DocumentMoniker": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Book.h",
-              "RelativeDocumentMoniker": "Code\\Book.h",
-              "ToolTip": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Book.h",
-              "RelativeToolTip": "Code\\Book.h",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-13T19:12:27.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Book.cpp",
-              "DocumentMoniker": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Book.cpp",
-              "RelativeDocumentMoniker": "Code\\Book.cpp",
-              "ToolTip": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Book.cpp",
-              "RelativeToolTip": "Code\\Book.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-13T19:12:11.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Node.h",
-              "DocumentMoniker": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Node.h",
-              "RelativeDocumentMoniker": "Code\\Node.h",
-              "ToolTip": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Node.h",
-              "RelativeToolTip": "Code\\Node.h",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-13T19:00:47.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Node.cpp",
-              "DocumentMoniker": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Node.cpp",
-              "RelativeDocumentMoniker": "Code\\Node.cpp",
-              "ToolTip": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Node.cpp",
-              "RelativeToolTip": "Code\\Node.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-13T19:00:33.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Launcher.cpp",
-              "DocumentMoniker": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Launcher\\Launcher.cpp",
-              "RelativeDocumentMoniker": "Launcher\\Launcher.cpp",
-              "ToolTip": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Launcher\\Launcher.cpp",
-              "RelativeToolTip": "Launcher\\Launcher.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-13T18:43:06.881Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Stack.h",
-              "DocumentMoniker": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Stack.h",
-              "RelativeDocumentMoniker": "Code\\Stack.h",
-              "ToolTip": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Stack.h",
-              "RelativeToolTip": "Code\\Stack.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-13T18:41:57.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Stack.cpp",
-              "DocumentMoniker": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Stack.cpp",
+              "DocumentMoniker": "C:\\Users\\jefou\\OneDrive\\Desktop\\Algo---exercice10\\exercice10-majeurbilly\\Code\\Stack.cpp",
               "RelativeDocumentMoniker": "Code\\Stack.cpp",
-              "ToolTip": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\Stack.cpp",
+              "ToolTip": "C:\\Users\\jefou\\OneDrive\\Desktop\\Algo---exercice10\\exercice10-majeurbilly\\Code\\Stack.cpp",
               "RelativeToolTip": "Code\\Stack.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwDEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-13T18:41:48.686Z",
+              "WhenOpened": "2025-08-15T14:52:17.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DataStructure.h",
-              "DocumentMoniker": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\DataStructure.h",
-              "RelativeDocumentMoniker": "Code\\DataStructure.h",
-              "ToolTip": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\DataStructure.h",
-              "RelativeToolTip": "Code\\DataStructure.h",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-13T18:41:44.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataStructure.cpp",
-              "DocumentMoniker": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\DataStructure.cpp",
-              "RelativeDocumentMoniker": "Code\\DataStructure.cpp",
-              "ToolTip": "C:\\Users\\jefou\\OneDrive\\Desktop\\exercice10-majeurbilly\\Code\\DataStructure.cpp",
-              "RelativeToolTip": "Code\\DataStructure.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "teststack.cpp",
+              "DocumentMoniker": "C:\\Users\\jefou\\OneDrive\\Desktop\\Algo---exercice10\\exercice10-majeurbilly\\TestsCode\\teststack.cpp",
+              "RelativeDocumentMoniker": "TestsCode\\teststack.cpp",
+              "ToolTip": "C:\\Users\\jefou\\OneDrive\\Desktop\\Algo---exercice10\\exercice10-majeurbilly\\TestsCode\\teststack.cpp*",
+              "RelativeToolTip": "TestsCode\\teststack.cpp*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-13T18:41:32.856Z"
+              "WhenOpened": "2025-08-15T13:55:36.768Z",
+              "EditorCaption": ""
             }
           ]
         }
